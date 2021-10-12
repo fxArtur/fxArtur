@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fxArtur
+- 👋 Hi, I’m @fxArtur ,just entered the coding world
 - 👀 I’m interested in learning and starting a career in programming
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on anything that matches my skill level or where i can improve my knowledge and skills
